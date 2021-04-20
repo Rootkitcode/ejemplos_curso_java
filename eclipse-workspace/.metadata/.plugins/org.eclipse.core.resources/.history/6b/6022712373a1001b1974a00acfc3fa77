@@ -1,0 +1,24 @@
+package clase1;
+
+public class holaMundo {
+	//comentarios de una linea
+	/* Comentario multilinea 
+	 * mas comentarios
+	 * @darwinTusarma
+	 * */
+	public static void main (String[]args) {
+		
+		//declaramos las variables
+		
+		int a;
+		int b;
+		
+		a = 5;
+		b = 7;
+		double numeroReal = 7.4;
+		
+		
+	}
+	
+
+}

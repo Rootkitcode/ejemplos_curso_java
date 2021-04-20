@@ -1,0 +1,18 @@
+package clase1;
+
+import java.util.Scanner;
+
+public class ejemploResta {
+	Scanner reader = new Scanner(System.in);
+	System.out.println("Ingrese el primer valor: ");
+	num1 = reader.nextInt();
+	System.out.println("ingresa el segundo valor: ");
+	num2 = reader.nextInt();
+	
+	resultado = num1 - num2;
+	
+	System.out.println("El resultado de la resta es: " + num1 + " - " + num2 + " = " + resultado);
+	
+	
+
+}

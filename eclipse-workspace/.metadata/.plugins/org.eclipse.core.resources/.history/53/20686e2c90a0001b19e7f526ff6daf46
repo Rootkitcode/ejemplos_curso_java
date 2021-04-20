@@ -1,0 +1,21 @@
+package clase1;
+
+import java.util.Scanner;
+
+public class ejercicioCirculo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/* @Darwin Tusarma Taba 
+		 * ejercicio hallar el area de un circulo*/
+		double area;
+		double radio;
+		area = 3.14 * Math.pow(radio, 2);
+		Scanner reader = new Scanner(System.in);
+		System.out.println("Ingrese el valor del area a calcular: ");
+		int radio1 = reader.nextInt();
+		System.out.println("El area del circulo es: " + area);
+		
+		
+	}
+	}
